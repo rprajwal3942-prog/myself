@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! My name is Srujan,
+Hello! My name is Prajwal,
 and I am currently pursuing B.Tech at REVA University.
 I am interested in software development,
 web development, and application development.
